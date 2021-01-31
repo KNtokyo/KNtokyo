@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kadenov Nursultan. Welcome to my GitHub)</h1>
-<h3 align="center">I'm Python Back-End Developer</h3>
+<h3 align="center">Hi 👋, I'm Kadenov Nursultan. Welcome to my GitHub)</h3>
+<h5 align="center">I'm Python Back-End Developer</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kntokyo&label=Profile%20views&color=0e75b6&style=flat" alt="kntokyo" /> </p>
 
@@ -17,13 +17,13 @@
 
 - 📫 How to reach me **nursultankadenov61@gmail.com**
 
+- 📄 Know about my experiences [link](https://www.canva.com/design/DAEUUmHos-A/kv6h3NHv5G3HhAauVfM32g/view?utm_content=DAEUUmHos-A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 - ⚡ Fun fact **I like reading, coding, learing about Islam and doing sport**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kntokyo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kntokyo/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc8z15lzgrypub-qkiakz5dw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uc8z15lzgrypub-qkiakz5dw" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/kntokyo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/kntokyo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kntokyo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kntokyo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
