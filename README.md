@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kadenov Nursultan. Welcome to my GitHub)</h1>
-<h3 align="center">I'm Python Back-End Developer</h3>
+<h3 align="center">Hi 👋, I'm Kadenov Nursultan. Welcome to my GitHub)</h3>
+<h5 align="center">I'm Python Back-End Developer</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kntokyo&label=Profile%20views&color=0e75b6&style=flat" alt="kntokyo" /> </p>
 
@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **the basis of the programming**
 
-- 📝 My Telegram [@KNtokyo](@KNtokyo)
+- 📝 My Telegram - [@KNtokyo](@KNtokyo)
 
 - 💬 Ask me about **Python and the like**
 
 - 📫 How to reach me **nursultankadenov61@gmail.com**
 
-- 📄 Know about my experiences [link](link)
+- 📄 Know about my experiences [link](https://www.canva.com/design/DAEUUmHos-A/kv6h3NHv5G3HhAauVfM32g/view?utm_content=DAEUUmHos-A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - ⚡ Fun fact **I like reading, coding, learing about Islam and doing sport**
 
